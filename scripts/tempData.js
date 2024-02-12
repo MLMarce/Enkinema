@@ -189,6 +189,16 @@ const tempData = [
     poster: "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
     src: "https://streamwish.to/e/8smb35bgv8oh"
   },
+  {
+    title: "Súper Cool",
+    year: 2007,
+    director: "Greg Mottola",
+    duration: "1h 58min",
+    genre: ["Adventure", "Comedy"],
+    rate: 8.6,
+    poster: "https://pelis-online.net/uploads/posts/2016/5/xsper-cool_1.jpg.pagespeed.ic.pEkebC0YwV.webp",
+    src: "https://pelis-online.net/playpelis1/index.php?title=&amp;org_name=Súper Cool&amp;year=2007"
+  },
 ];
 
 module.exports = tempData
